@@ -1,6 +1,4 @@
-## Calculate the winning combinations for
-## X * Y Tic-Tac-Toe board  
-## N = count of winning buttons
+## Calculate the winning combinations for  X * Y Tic-Tac-Toe board  N = count of winning buttons
 - edit ``calculations.ts`` file only
 - implement ``get2DMatrixWithIndexes`` method so it returns horizontal lines of the board
 - implement ``diagonal`` method so it returns the diagonals of the board, string ```bottomOrTop``` is not necessary parameter
