@@ -4,5 +4,5 @@
 - implement ``diagonal`` method so it returns the diagonals of the board, string ```bottomOrTop``` is not necessary parameter
 - finally edit ```getWinningLines``` depending or your decision about the ``diagonal`` method implementation
 
-Sample - https://codesandbox.io/s/green-monad-mhx3p?file=/src/styles.css:0-289  
+Sample - https://codesandbox.io/s/green-monad-mhx3p?file=/edit-here/calculations.ts  
 Solution - https://codesandbox.io/s/admiring-sanne-ly1zh?file=/edit-here/calculations.ts  
